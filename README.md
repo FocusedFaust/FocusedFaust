@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlickeringHell
-- 👀 I’m interested in learning how to code (I am taking a course)
-- 🌱 I’m currently learning the basics of Python
+- 👀 I’m interested in learning doftware and hardware
+- 🌱 I’m currently learning Python, coding with discord.py and Raspberry Pi
 - 💞️ I’m looking to collaborate on anything I can help with :)
 - 📫 How to reach me? I don't know
 
