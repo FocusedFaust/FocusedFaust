@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FlickeringHell
-- 👀 I’m interested in learning doftware and hardware
-- 🌱 I’m currently learning Python, coding with discord.py and Raspberry Pi
-- 💞️ I’m looking to collaborate on anything I can help with :)
-- 📫 How to reach me? I don't know
+- 👋 Hi, I’m @FocusedFaust
+- 👀 I’m interested in learning software and hardware development
+- 🌱 I’m currently learning Java and experimenting with Arduino. I also know Python, Scala and GdScript.
+- 💞️ I’m looking to collaborate on anything I can help with :) (that is, if I have the time)
+- 📫 How to reach me? Even I don't know
 
 <!---
 FlickeringHell/FlickeringHell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
