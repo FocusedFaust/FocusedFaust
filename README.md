@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @FocusedFaust
-- 👀 I’m interested in learning software and hardware development
-- 🌱 I’m currently learning Java and experimenting with Arduino. I also know Python, Scala and GdScript.
-- 💞️ I’m looking to collaborate on anything I can help with :) (that is, if I have the time)
-- 📫 How to reach me? Even I don't know
+**Hey there stranger**, I'm Faust :) 🫶
+
+I'm currently a student at EPFL in Computer Science, which doesn't stop me from starting a new side-project every week.
+
+**📝 Currently**, I'm working on:
+- Passing my semester (yes mom)
+- Re-creating the swiss CFF app for my CS-108 class
+- Compiling notes by each semesters: [LectureNotes](https://github.com/FocusedFaust/LectureNotes)
+- Coding the [Bubble Cheker](https://github.com/FocusedFaust/BubbleChecker) with the wonderful [@Maërwan](https://github.com/hotwraith)
+- and many other offline projects 😊 *//TODO: continue my crochet blanket*
 
 <!---
 FlickeringHell/FlickeringHell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
